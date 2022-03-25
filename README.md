@@ -3,7 +3,7 @@ Implementing Ray tracer with 15 checkpoints
 
 This project needs Windows Subsystem for Linux and all dependencies to compile a basic C/C++ program to compile. In addition to these there are two more dependencies you need to compile this project.
 
-1) scon
+1) 'scon' :
 To install: sudo apt-get install scons.
 
 2) To install additional dependencies run this command: sudo apt-get install libpng-dev
