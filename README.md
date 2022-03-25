@@ -8,7 +8,7 @@ To install: sudo apt-get install scons.
 
 2) To install additional dependencies run this command: sudo apt-get install libpng-dev
 
-To compile the project using the command 'scons' and in order to ensure there are really no errors or
-issues running it twice should display that everything was built okay the first time.
+To compile the project use the command 'scons'.
+In order to ensure there are really no errors or issues running it twice should display that everything was built okay the first time.
 
 To run the program use command './raytracer.py .'
